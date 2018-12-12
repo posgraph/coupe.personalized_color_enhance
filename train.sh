@@ -1,0 +1,1 @@
+python train.py --dataroot /5k_dataset/blue/ --name colorenhance_blue --model colorenhance --pool_size 50 --no_dropout --dataset_mode aligned_rand
