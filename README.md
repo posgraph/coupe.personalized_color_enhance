@@ -19,7 +19,7 @@ python test.py --dataroot /5k_dataset/blue/ --name colorenhance_blue --model col
 ![Example](images/result.PNG)  
 
 ## Checkpoint ##
-checkpoint link: [link](https://drive.google.com/open?id=19Po-XJRGl-0RJxgw5-gvJ6rQ1fKxA1vo)
+checkpoint link for blue: [link](https://drive.google.com/open?id=19Po-XJRGl-0RJxgw5-gvJ6rQ1fKxA1vo)
 
 ## License ##
 This software is being made available under the terms in the [LICENSE](LICENSE) file.
